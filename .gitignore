@@ -1,0 +1,4 @@
+#  add backend node_modules to git ignore
+backend1/node_modules
+frontend/node_modules
+
